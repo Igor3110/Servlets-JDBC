@@ -30,7 +30,8 @@ public class Constant {
             """;
 
     public static final String FIND_ALL_SQL = """
-                SELECT * FROM users
+                SELECT *
+                FROM users
             """;
 
 }
